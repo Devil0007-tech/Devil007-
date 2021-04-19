@@ -1,6 +1,8 @@
 # Devil007-
 Its only for educational purposes 
+
 #installation
+
 termux-setup-storage
 
 pkg update && pkg upgrade
